@@ -49,12 +49,12 @@ I am currently on the job market and am available for interviews, including at t
 
 * * *
 ## Education
--M.A. Economics (Georgetown University)
+-Georgetown University
+  - M.A. Economics
 
--M.S. Applied Mathematics (Rensselaer Polytechnic Institute)
-
--B.S. Mathematics and Psychology, Minor in Economics (Rensselaer Polytechnic Institute)
-
+-Rensselaer Polytechnic Institute
+  - M.S. Applied Mathematics
+  - B.S. Mathematics and Psychology, Minor in Economics
 
 * * *
 ## Awards
