@@ -29,3 +29,32 @@ I am currently on the job market and am available for interviews, including at t
 -ECON-122: Introduction to Econometrics (Fall 2018, Spring 2019)
 
 -ECON-121: Economic Statistics (Spring 2020)
+
+* * *
+## Skills
+-Programming Languages: Python, SQL, C++
+
+-Statistical Software: PyData Stack (Pandas, Numpy, Scipy, scikit-learn), Stata, MATLAB, R 
+
+-Other Computer Skills: LaTeX, SAP, Microsoft Office Suite
+
+* * *
+## Education
+-M.A. Economics (Georgetown University)
+
+-M.S. Applied Mathematics (Rensselaer Polytechnic University)
+
+-B.S. Mathematics and Psychology, Minor in Economics (Rensselaer Polytechnic University)
+
+
+* * *
+## Awards
+-Georgetown University Summer Dissertation Fellowship (Summer 2020)
+
+-Georgetown University Graduate School Fellowship (Fall 2017 - Spring 2018)
+
+-Rensselaer Polytechnic University Summa Cum Laude (Spring 2014)
+
+-Rensselaer Polytechnic University Founders Award for Excellence (Fall 2013)
+
+
