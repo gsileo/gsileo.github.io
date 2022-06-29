@@ -27,4 +27,5 @@ I am currently on the job market and am available for interviews, including at t
 ## Teaching Experience
 ### Teaching Assistant
 -ECON-122: Introduction to Econometrics (Fall 2018, Spring 2019)
+
 -ECON-121: Economic Statistics (Spring 2020)
