@@ -1,6 +1,9 @@
+#sets the theme of the webpage
 theme: jekyll-theme-minimal
+
+#name of website and description
 title: Gretchen Sileo
 description: Economics PhD Candidate
 
-
+#image displayed in the sidebar
 avatar: "SmallHeadshot.png"
