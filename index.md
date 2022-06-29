@@ -1,5 +1,5 @@
-# Gretchen Sileo
-### Economics PhD Candidate
+title: [Gretchen Sileo]
+description: [Economics PhD Candidate, Georgetown University]
 
 ## Contact Information
 - email: gs907[at]georgetown[.]edu
