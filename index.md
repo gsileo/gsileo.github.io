@@ -2,9 +2,7 @@ I am a PhD candidate in Economics at Georgetown University. My primary fields of
 
 I am currently on the job market and am available for interviews, including at the ASSA 2023 Annual Meeting on January 6-8, 2023.
 
-## Contact Information
-- email: gs907[at]georgetown[.]edu
-- [LinkedIn Profile](https://www.linkedin.com/in/gretchen-sileo-a651025a/)
+* * *
 
 ## Research
 -**Infrastructure Spending as a Dynamic Investment: Evidence from Kentucky Water Systems**
