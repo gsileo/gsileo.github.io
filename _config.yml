@@ -5,15 +5,11 @@ theme: jekyll-theme-minimal
 logo: images/LargeHeadshot.png
 
 # # #name of website and description
-# title: Gretchen Sileo
-# description: Economics PhD Candidate at Georgetown on the Job Market in Fall 2022
+title: Gretchen Sileo
+description: Economics PhD Candidate at Georgetown University on the Job Market in Fall 2022
 
 # # #can set this as a round image or rectangular, default is round
 # # #round-avatar: false
 
 
 email: gs907@georgetown.edu
-blank_title: true
-favicon: true
-description: ""
-show_downloads: false
