@@ -1,12 +1,12 @@
 #sets the theme of the webpage
 theme: jekyll-theme-minimal
 
+#image displayed in the sidebar
+logo: SmallHeadshot.png
+
 #name of website and description
 title: Gretchen Sileo
 description: Economics PhD Candidate
-
-#image displayed in the sidebar
-logo: SmallHeadshot.png
 
 #can set this as a round image or rectangular, default is round
 #round-avatar: false
