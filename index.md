@@ -1,5 +1,5 @@
 ## Contact Information
-- email: gs907 at georgetown[.]edu
+- email: gs907[at]georgetown[.]edu
 - [LinkedIn Profile](https://www.linkedin.com/in/gretchen-sileo-a651025a/)
 
 ### Research
