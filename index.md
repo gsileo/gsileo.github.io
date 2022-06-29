@@ -1,7 +1,11 @@
 
-
-
-
+#set the navigation bar links
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://www.gretchensileo.com/"
 
 
 ## Contact Information
