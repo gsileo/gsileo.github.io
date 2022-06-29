@@ -7,12 +7,6 @@ I am currently on the job market and am available for interviews, including at t
 - [LinkedIn Profile](https://www.linkedin.com/in/gretchen-sileo-a651025a/)
 
 ## Research
-### Interests
-- Empirical Industrial Organization
-- Public Economics
-- Applied Microeconomics
-
-## Works in Progress
 -**Infrastructure Spending as a Dynamic Investment: Evidence from Kentucky Water Systems**
 
 -**The Evolution of Concentration and Markups in the United States Cement Industry** (with [Nathan Miller](http://www.nathanhmiller.org/), [Matthew Osborne](https://sites.google.com/site/matthewosborne/), and [Gloria Sheu](https://sites.google.com/site/gloriaysheu/))
@@ -21,3 +15,4 @@ I am currently on the job market and am available for interviews, including at t
 -**An Empirical Study of Inmate Telecommunication Service Procurement** (with [Nathan Miller](http://www.nathanhmiller.org/) and [Marleen Marra](https://www.marleenmarra.nl/))
 
 -**A Dynamic Discrete Choice Model of Electronic Toll Adoption in the U.S.**
+
