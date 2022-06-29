@@ -17,11 +17,15 @@ I am currently on the job market and am available for interviews, including at t
 
 ### Experience
 -**Research Assistant to Professor Nathan Miller**
-    -Inmate Telecommunication Service Procurement Project (Fall 2021, Spring 2022)
-    -Concentration and Markups in the Cement Industry Project	(Fall 2019, Fall 2020, Spring 2021)
+  -Inmate Telecommunication Service Procurement Project (Fall 2021, Spring 2022)
+  -Concentration and Markups in the Cement Industry Project	(Fall 2019, Fall 2020, Spring 2021)
+    
+- level 1 item
+  - level 2 item
+  - level 2 item
     
 -**Research Assistant to Professor Dan Cao**
-    -Bank Risk Taking Project (Fall 2018)
+  -Bank Risk Taking Project (Fall 2018)
 
 * * *
 ## Teaching Experience
