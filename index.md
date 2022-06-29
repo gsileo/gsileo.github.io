@@ -51,9 +51,9 @@ I am currently on the job market and am available for interviews, including at t
 ## Education
 -M.A. Economics (Georgetown University)
 
--M.S. Applied Mathematics (Rensselaer Polytechnic University)
+-M.S. Applied Mathematics (Rensselaer Polytechnic Institute)
 
--B.S. Mathematics and Psychology, Minor in Economics (Rensselaer Polytechnic University)
+-B.S. Mathematics and Psychology, Minor in Economics (Rensselaer Polytechnic Institute)
 
 
 * * *
@@ -64,8 +64,8 @@ I am currently on the job market and am available for interviews, including at t
 
 -Deloitte Outstanding Performance Award (2015)
 
--Rensselaer Polytechnic University Summa Cum Laude (Spring 2014)
+-Rensselaer Polytechnic Institute Summa Cum Laude (Spring 2014)
 
--Rensselaer Polytechnic University Founders Award for Excellence (Fall 2013)
+-Rensselaer Polytechnic Institute Founders Award for Excellence (Fall 2013)
 
 
