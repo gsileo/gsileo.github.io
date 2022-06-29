@@ -5,6 +5,7 @@ I am currently on the job market and am available for interviews, including at t
 * * *
 
 ## Research
+### Works in Progress
 -**Infrastructure Spending as a Dynamic Investment: Evidence from Kentucky Water Systems**
 
 -**The Evolution of Concentration and Markups in the United States Cement Industry** (with [Nathan Miller](http://www.nathanhmiller.org/), [Matthew Osborne](https://sites.google.com/site/matthewosborne/), and [Gloria Sheu](https://sites.google.com/site/gloriaysheu/))
@@ -14,3 +15,16 @@ I am currently on the job market and am available for interviews, including at t
 
 -**A Dynamic Discrete Choice Model of Electronic Toll Adoption in the U.S.**
 
+### Experience
+-**Research Assistant to Professor Nathan Miller**
+    -Inmate Telecommunication Service Procurement Project (Fall 2021, Spring 2022)
+    -Concentration and Markups in the Cement Industry Project	(Fall 2019, Fall 2020, Spring 2021)
+    
+-**Research Assistant to Professor Dan Cao**
+    -Bank Risk Taking Project (Fall 2018)
+
+* * *
+## Teaching Experience
+### Teaching Assistant
+-ECON-122: Introduction to Econometrics (Fall 2018, Spring 2019)
+-ECON-121: Economic Statistics (Spring 2020)
