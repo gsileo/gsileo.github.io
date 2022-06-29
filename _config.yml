@@ -2,22 +2,12 @@
 theme: jekyll-theme-minimal
 
 #image displayed in the sidebar
-logo: SmallHeadshot.png
+logo: images/LargeHeadshot.png
 
 # #name of website and description
-# title: Gretchen Sileo
-# description: Economics PhD Candidate
+title: Gretchen Sileo
+description: Economics PhD Candidate
 
 # #can set this as a round image or rectangular, default is round
 # #round-avatar: false
 
-
-#name of website and description
-title: Gretchen Sileo
-email: gs907@georgetown.edu
-blank_title: true
-description: ""
-sidebar:
-  - name: Google Scholar
-    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
-    link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
