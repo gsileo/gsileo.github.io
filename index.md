@@ -32,14 +32,18 @@ I am currently on the job market and am available for interviews, including at t
 
 * * *
 ## Professional Experience
+
 -Deloitte & Touche: Consultant and Senior Consultant (2014-2016)
--
+
+-Framingham State University: Professional Mathematics Tutor (2017)
 
 * * *
 ## Skills
 -Programming Languages: Python, SQL, C++
 
--Statistical Software: PyData Stack (Pandas, Numpy, Scipy, scikit-learn), Stata, MATLAB, R 
+-Statistical Software: PyData Stack (pandas, numpy, scipy, scikit-learn), Stata, MATLAB, R 
+
+-Other Software: Python (numba, joblib, geopandas, shapely, selenium, requests)
 
 -Other Computer Skills: LaTeX, SAP, Microsoft Office Suite
 
