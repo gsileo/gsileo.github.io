@@ -31,6 +31,11 @@ I am currently on the job market and am available for interviews, including at t
 -ECON-121: Economic Statistics (Spring 2020)
 
 * * *
+## Professional Experience
+-Deloitte & Touche: Consultant and Senior Consultant (2014-2016)
+-
+
+* * *
 ## Skills
 -Programming Languages: Python, SQL, C++
 
@@ -52,6 +57,8 @@ I am currently on the job market and am available for interviews, including at t
 -Georgetown University Summer Dissertation Fellowship (Summer 2020)
 
 -Georgetown University Graduate School Fellowship (Fall 2017 - Spring 2018)
+
+-Deloitte Outstanding Performance Award (2015)
 
 -Rensselaer Polytechnic University Summa Cum Laude (Spring 2014)
 
