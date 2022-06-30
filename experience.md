@@ -1,3 +1,7 @@
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [Job Market Paper] | [CV](/cv/Sileo_CV.pdf)
+
+* * *
+
 ## Research Experience
 **Research Assistant to Professor Nathan Miller**
   - Inmate Telecommunication Service Procurement Project (Fall 2021, Spring 2022)
