@@ -1,3 +1,7 @@
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [Job Market Paper] | [CV](/cv/Sileo_CV.pdf)
+
+* * *
+
 ### Works in Progress
 -Infrastructure Spending as a Dynamic Investment: Evidence from Kentucky Water Systems
 
