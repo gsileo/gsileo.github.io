@@ -9,10 +9,7 @@ title: Gretchen Sileo
 # description: Economics PhD Student @ Georgetown
 email: gs907@georgetown.edu
 
-github_link: true
-
-linkedin_link: true
-
+include_links: true
 
 # plugins:
 #   - jekyll-sitemap
