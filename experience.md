@@ -7,7 +7,8 @@
   - Inmate Telecommunication Service Procurement Project (Fall 2021, Spring 2022)
   - Concentration and Markups in the Cement Industry Project (Fall 2019, Fall 2020, Spring 2021)
 
-**U.S. Department of Justice, Antitrust Division** Graduate Economics Intern (Summer 2019)
+**U.S. Department of Justice, Antitrust Division** 
+  - Graduate Economics Intern (Summer 2019)
     
 **Research Assistant to Professor Dan Cao**
   - Bank Risk Taking Project (Fall 2018)
@@ -36,10 +37,10 @@
 * * *
 
 ## Skills
--Programming Languages: Python, SQL, C++
+- Programming Languages: Python, SQL, C++
 
--Statistical Software: PyData Stack (pandas, numpy, scipy, scikit-learn), Stata, MATLAB, R
+- Statistical Software: PyData Stack (pandas, numpy, scipy, scikit-learn), Stata, MATLAB, R
 
--Other Software: Python (numba, joblib, geopandas, shapely, selenium, requests)
+- Other Software: Python (numba, joblib, geopandas, shapely, selenium, requests)
 
--Other Computer Skills: LaTeX, SAP, Microsoft Office Suite
+- Other Computer Skills: LaTeX, SAP, Microsoft Office Suite
