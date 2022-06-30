@@ -1,4 +1,4 @@
-## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [Job Market Paper] | [CV](/cv/Sileo_CV.pdf)
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | JMP | [CV](/cv/Sileo_CV.pdf)
 
 * * *
 
