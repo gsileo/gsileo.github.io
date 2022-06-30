@@ -2,7 +2,7 @@
 
 * * *
 
-### Works in Progress
+## Works in Progress
 **Infrastructure Spending as a Dynamic Investment: Evidence from Kentucky Water Systems [JMP]**
 
 **[The Evolution of Concentration and Markups in the United States Cement Industry](/papers/moss_cement_draft.pdf)** (with [Nathan Miller](http://www.nathanhmiller.org/), [Matthew Osborne](https://sites.google.com/site/matthewosborne/), and [Gloria Sheu](https://sites.google.com/site/gloriaysheu/))
