@@ -11,5 +11,3 @@ email: gs907@georgetown.edu
 
 #custom to ensure links to resources show up on page
 include_links: true
-
-show_downloads: true
