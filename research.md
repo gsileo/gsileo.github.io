@@ -1,6 +1,4 @@
-<a href="https://gsileo.github.io/" style="font-size: 30px; font-weight:bold"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"></g></svg>Main </a>
-
-
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | JMP | [CV](/cv/Sileo_CV.pdf)
 
 * * *
 
