@@ -17,6 +17,8 @@
 
 ## Teaching Experience
 ### Teaching Assistant
+**PECO-201: Analytical Tools for Political Economics** (Fall 2022)
+
 **ECON-122: Introduction to Econometrics** (Fall 2018, Spring 2019)
 
 **ECON-121: Economic Statistics** (Spring 2020)
