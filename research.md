@@ -3,7 +3,7 @@
 * * *
 
 ## Works in Progress
-**Infrastructure Spending as a Dynamic Discrete Choice: Evidence from Kentucky Water Systems (JMP)**
+**Infrastructure Investment as a Dynamic Discrete Choice: Evidence from Kentucky Water Systems (JMP)**
 >I study the ability of utility managers to maintain properly functioning infrastructure through investment. Using a new dataset on Kentucky water systems, I obtain empirical evidence of the relationships between infrastructure projects and violations of water quality standards and incorporate this evidence into a dynamic discrete choice model of utility manager infrastructure investment decisions. Through simulations, I determine that infrastructure investment levels are currently too low to successfully mitigate the decline of water infrastructure quality. The modeling results highlight an important distinction between infrastructure project types. Proactive investment, done in advance of infrastructure issues, is more efficient in the sense that a given level of investment yields a larger improvement in quality. Yet subsidies of large, reactive projects are more effective at maintaining quality above health-based quality standards. This is because projects undertaken in response to infrastructure issues can be better targeted to high improvement areas.
 
 
