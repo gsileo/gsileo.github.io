@@ -1,4 +1,4 @@
-## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | JMP | [CV](/cv/sileo_cv_latex.pdf)
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | JMP | [CV](/cv/sileo_cv.pdf)
 
 * * *
 
