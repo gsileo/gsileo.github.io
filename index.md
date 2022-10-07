@@ -1,5 +1,5 @@
 
-## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | JMP | [CV](/cv/Sileo_CV.pdf)
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | JMP | [CV](/cv/sileo_cv_latex.pdf)
 
 * * *
 
