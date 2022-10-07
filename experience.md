@@ -11,7 +11,7 @@
   - Graduate Economics Intern (Summer 2019)
     
 **Research Assistant to Professor Dan Cao**
-  - Bank Risk Taking Project (Fall 2018)
+  - Bank Risk-Taking Project (Fall 2018)
 
 * * *
 
