@@ -1,4 +1,4 @@
-## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | JMP | [CV](/cv/sileo_cv.pdf)
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [JMP](/papers/sileo_jmp_infrastructure_investment.pdf)| [CV](/cv/sileo_cv.pdf)
 
 * * *
 
