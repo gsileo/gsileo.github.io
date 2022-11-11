@@ -3,7 +3,7 @@
 * * *
 
 ## Works in Progress
-**Proactive and Reactive Infrastructure Investment (JMP)**
+**[Proactive and Reactive Infrastructure Investment (JMP)](/papers/sileo_jmp_infrastructure_investment.pdf)**
 >Properly functioning infrastructure is maintained through investment. A proactive investment strategy prevents failures but requires expenditures before quality deteriorates. A reactive investment strategy accepts some risk of failure to avoid unnecessary expenditures. I explore proactive and reactive investments in a newly collected dataset on Kentucky water systems to assess the ability of system managers to maintain infrastructure quality. I establish that proactive and reactive investments differentially reduce the probability of a future system failure, and that both managers and consumers are sensitive to system quality. I construct and estimate a dynamic discrete choice model of system manager infrastructure investment decisions incorporating the empirical relationships and investment strategy intuition. Through simulations, I determine that investment is currently too low to successfully prevent the decline of water infrastructure quality. Counterfactual policies that promote only proactive projects lead some systems to make unnecessary investments even as others become vulnerable to extreme quality decline. By contrast, policies that facilitate more effective reactive policies incorporate more equitable levels of risk, reduce overspending, and enable all systems to maintain system quality.
 
 
