@@ -3,8 +3,7 @@
 
 * * *
 
-I am a PhD candidate in Economics at Georgetown University. My primary field of interest is empirical industrial organization. My secondary fields are public and environmental economics.
+I will be joining Temple University as an Assistant Professor in the Department of Economics in Fall 2023.
 
-I am currently on the job market and am available for interviews, including at the ASSA 2023 Annual Meeting on January 6-8, 2023.
+In my research I use empirical industrial organization tools to study a wide range of topics including: drinking water infrastructure investment, prices in prison phone industry, and markups and technology adoption in the cement industry. 
 
-My advisors are [Nathan Miller](http://www.nathanhmiller.org/) and [John Rust](https://editorialexpress.com/jrust/).
