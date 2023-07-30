@@ -3,7 +3,6 @@
 
 * * *
 
-I will be joining Temple University as an Assistant Professor in the Department of Economics in Fall 2023.
+I am an Assistant Professor in the Department of Economics at Temple University.
 
-In my research I use empirical industrial organization tools to study a range of topics including: drinking water infrastructure investment, prices in the prison phone industry, and technology and market power in the cement industry. 
-
+My research interests include the industrial organization of public institutions and policy-relevant analysis. I have applied empirical industrial organization methods to a variety of topics including: drinking water infrastructure investment, prices in the prison phone industry, and technology and market power in the cement industry.
