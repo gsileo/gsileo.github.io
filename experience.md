@@ -30,11 +30,6 @@
 ## Professional Experience
 
 **Deloitte & Touche: Consultant and Senior Consultant** (2014-2016)
--	Facilitated a post-merger integration for one of the world’s largest pharmaceutical companies; owning the process of data integration for thousands of pharmaceutical products and their associated supply chains 
--	Analyzed pharmaceutical data and successfully converted pricing and costs of products from a legacy SAP system to a custom-made product tracking system
--	Solicited retirements and collected data from key client stakeholders including the developers of the product tracking system, administrators of the SAP system, and Directors of Tax, Inventory, and Supply Chain
-- Assessed business processes for three strategic clients in the financial services industry
--	Managed offshore team to assign tasks, review work, and communicate progress with onshore management
 
 **Framingham State University: Professional Mathematics Tutor** (2017)
 
