@@ -1,4 +1,4 @@
-## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [JMP](/papers/sileo_jmp_infrastructure_investment.pdf)| [CV](/cv/sileo_cv.pdf)
+## [Main](https://gsileo.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [CV](/cv/sileo_cv.pdf)
 
 * * *
 
@@ -16,6 +16,8 @@
 * * *
 
 ## Teaching Experience
+**ECON-3536: Economics of American Industry** (Fall 2023)
+
 ### Teaching Assistant
 **PECO-201: Analytical Tools for Political Economics** (Fall 2022)
 
