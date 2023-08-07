@@ -16,6 +16,7 @@
 * * *
 
 ## Teaching Experience
+### Instructor
 **ECON-3536: Economics of American Industry** (Fall 2023)
 
 ### Teaching Assistant
