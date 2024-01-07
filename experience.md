@@ -2,6 +2,22 @@
 
 * * *
 
+
+## Teaching Experience
+### Temple University (Instructor)
+**ECON-3536: Economics of American Industry** (Fall 2023)
+
+**ECON-3503: Introduction to Econometrics** (Spring 2024)
+
+### Georgetown University (Teaching Assistant)
+**PECO-201: Analytical Tools for Political Economics** (Fall 2022)
+
+**ECON-122: Introduction to Econometrics** (Fall 2018, Spring 2019)
+
+**ECON-121: Economic Statistics** (Spring 2020)
+
+* * *
+
 ## Research Experience
 **Research Assistant to Professor Nathan Miller**
   - Inmate Telecommunication Service Procurement Project (Fall 2021, Spring 2022)
@@ -12,19 +28,6 @@
     
 **Research Assistant to Professor Dan Cao**
   - Bank Risk-Taking Project (Fall 2018)
-
-* * *
-
-## Teaching Experience
-### Instructor
-**ECON-3536: Economics of American Industry** (Fall 2023)
-
-### Teaching Assistant
-**PECO-201: Analytical Tools for Political Economics** (Fall 2022)
-
-**ECON-122: Introduction to Econometrics** (Fall 2018, Spring 2019)
-
-**ECON-121: Economic Statistics** (Spring 2020)
 
 * * *
 
