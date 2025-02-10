@@ -5,4 +5,4 @@
 
 I am an Assistant Professor in the Department of Economics at Temple University.
 
-My research interests include the industrial organization of public institutions and policy-relevant analysis. I have applied empirical industrial organization methods to a variety of topics including: drinking water infrastructure investment, prices in the prison phone industry, and technology and market power in the cement industry.
+I research the industrial organization of public institutions - specifically, I apply methods from empirical industrial organization to settings in which governments and other public entities are key decision makers. My work in this area has looked at investment in the infrastructure of publicly-owned drinking water systems and the procurement process in the prison phone industry. I also use IO methods to answer broader questions of public policy, such as regulations on donor compensation for blood plasma and the relationship between new technologies and market power.
