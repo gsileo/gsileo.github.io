@@ -13,6 +13,6 @@
 *Resubmitted to American Economic Review*
 >We examine the evolution of market power in the cement industry over more than four decades using a structural model of procurement. The model matches aggregated outcomes in the data and implies transportation costs, shipping distances, and demand elasticities that are consistent with external sources. We find significant increases in local market concentration, but markups increase only modestly, and real prices do not rise. We attribute these patterns to a technological innovation—the precalciner kiln—that lowered variable costs, increased plants’ capacities and economies of scale, and contributed to an industry shakeout in which many plants closed.
 
-**Entry and Competition in the U.S. Paid Plasma Industry** (with [Peter Jaworski](https://gufaculty360.georgetown.edu/s/contact/00336000014TksCAAS/peter-jaworski) and Kaitlyn Wilson)
+**The United States Paid Plasma Industry** (with [Peter Jaworski](https://gufaculty360.georgetown.edu/s/contact/00336000014TksCAAS/peter-jaworski) and Kaitlyn Wilson)
 
 **The Dynamics of Emissions Pricing and Technology Adoption** (with [Sarah Armitage](https://www.sarah-armitage.com/home), [Nathan Miller](http://www.nathanhmiller.org/), and [Matthew Osborne](https://sites.google.com/site/matthewosborne/))
