@@ -5,8 +5,8 @@
 
 ## Teaching Experience
 **Temple University (Instructor)**
-  - ECON-3536: Economics of American Industry (Fall 2023, Fall 2024)
-  - ECON-3503: Introduction to Econometrics (Spring 2024, Spring 2025)
+  - ECON-3536: Economics of American Industry (Fall 2023, Fall 2024, Spring 2026)
+  - ECON-3503: Introduction to Econometrics (Spring 2024, Spring 2025, Fall 2025, Spring 2026)
 
 **Georgetown University (Teaching Assistant)**
   - PECO-201: Analytical Tools for Political Economics (Fall 2022)
