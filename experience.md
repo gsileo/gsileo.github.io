@@ -9,6 +9,7 @@
   - ECON-3503: Introduction to Econometrics (Spring 2024, Spring 2025, Fall 2025, Spring 2026)
 
 **Georgetown University (Teaching Assistant)**
+  - ECON-433: Public Sector Economics (Spring 2023)
   - PECO-201: Analytical Tools for Political Economics (Fall 2022)
   - ECON-122: Introduction to Econometrics (Fall 2018, Spring 2019)
   - ECON-121: Economic Statistics (Spring 2020)
