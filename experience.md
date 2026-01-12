@@ -17,7 +17,9 @@
 
 ## Professional Experience
 
-**Deloitte & Touche: Consultant and Senior Consultant** (2014-2016)
+**Deloitte & Touche** 
+- Senior Consultant (2016)
+- Consultant (2014-2016)
 
 * * *
 
