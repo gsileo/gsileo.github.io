@@ -19,8 +19,6 @@
 
 **Deloitte & Touche: Consultant and Senior Consultant** (2014-2016)
 
-**Framingham State University: Professional Mathematics Tutor** (2017)
-
 * * *
 
 ## Skills
